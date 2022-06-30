@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Trmrskr and I am a software developer.
-I am looking to collaborate on open source projects on githubs.
-- 👀 I am currently learning and building projects on Javascript.
-- 🌱 I am interested in the concepts of Jamstack application.
-- 💞️ I’d really love to collaborate with you if you have exciting ideas.
-- 📫 Kindly reach me on simonalale@gmail.com, Let's get to work.
+## ABOUT @TRMRSKR
+
+- 👋 Hi, You can call by by my fun name **@Trmrskr**. Currently I am a software engineering trainee.
+- :fire: I am motivated to solve problems upon problems by sitting on my :computer:computer day :sunny: and night :new_moon:.
+- :sunny: I look forward to collaborate on exciting open source projects on github.
+- :sweat_drops: I am currently building my systems engineering funcdamentals (Linux OS, Data Structure and Algorithms with C).
+- :monkey_face: I specialize in building web applications. My tool stacks include **HTML**, **CSS**, **JavaScript** and **APIs** Integration.
+- :eye: Checkout my [repositories](https://github.com/Trmrskr) for more details about my work.
+- :mailbox:You can reach me with simonalale@gmail.com or visit my [linkedin](https://www.linkedin.com/in/tamara-kuro-simon-alale-993868151/) and [Twitter](https://twitter.com/Trmrskr) pages..
+
+# Let us build our world together :exclamation:
 
 <!---
 Trmrskr/Trmrskr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
