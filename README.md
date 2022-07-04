@@ -1,4 +1,4 @@
-# HELLO :ok_hand:, Meet Tamara-kuro Simon Alale
+# HELLO THERE:ok_hand:,
 
 - 👋 Hi, **@Trmrskr** is just my fun name.
 
