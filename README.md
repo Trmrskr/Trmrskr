@@ -1,6 +1,6 @@
 # HELLO THERE:ok_hand:,
 
-- 👋 Hi, **@Trmrskr** is just my fun name.
+- 👋 Hi, **@Trmrskr** is my fun name.
 
 - :clap: Currently I am a software engineering trainee :muscle:.
 
